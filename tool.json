@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "常用工具列表获取成功",
+  "data": [
+    {
+      "id": "tool-iconfont",
+      "name": "Iconfont",
+      "url": "https://www.iconfont.cn",
+      "icon": "fas fa-icons",
+      "description": "阿里巴巴矢量图标库，海量图标免费下载。",
+      "category": "design",
+      "accentColor": "text-sky-500"
+    },
+{
+  "id": "linuxdo-community",
+  "name": "Linux.do",
+  "url": "https://linux.do/",
+  "icon": "fas fa-terminal",
+  "description": "一个活跃的、以技术交流为主的中文社区，话题涵盖Linux、AI、编程、硬件、薅羊毛及生活分享等。",
+  "category": "community",
+  "accentColor": "text-green-500"
+},
+   {
+    "id": "tool-gitee",
+    "name": "码云",
+    "url": "https://gitee.com/",
+    "icon": "fas fa-code-branch",
+    "description": "中国领先的基于Git的代码托管和协作平台，提供代码仓库、项目管理、代码质量分析等服务。",
+    "category": "development",
+    "accentColor": "text-red-500"
+  },
+  {
+    "id": "tool-gemini",
+    "name": "Gemini",
+    "url": "https://gemini.google.com/",
+    "icon": "fas fa-brain",
+    "description": "谷歌开发的多模态人工智能模型和AI助手，能够进行对话、生成文本、翻译语言等。",
+    "category": "ai_tools",
+    "accentColor": "text-blue-500"
+  },
+  {
+    "id": "tool-juejin",
+    "name": "掘金",
+    "url": "https://juejin.cn/",
+    "icon": "fas fa-pen-nib",
+    "description": "一个帮助开发者成长的技术社区，提供文章、课程、资讯等内容，覆盖前后端、AI等领域。",
+    "category": "community",
+    "accentColor": "text-blue-600" 
+  },
+  {
+    "id": "tool-tencent-cloud",
+    "name": "腾讯云",
+    "url": "https://cloud.tencent.com/",
+    "icon": "fas fa-cloud",
+    "description": "腾讯公司旗下的云计算服务平台，提供云服务器、数据库、CDN、AI、大数据等多种云产品和服务。",
+    "category": "cloud_services",
+    "accentColor": "text-sky-600"
+  },
+  {
+    "id": "tool-nowcoder",
+    "name": "牛客网",
+    "url": "https://www.nowcoder.com/",
+    "icon": "fas fa-laptop-code",
+    "description": "集求职、刷题、学习、交流于一体的IT综合服务平台，面向程序员和IT从业者。",
+    "category": "career_learning",
+    "accentColor": "text-cyan-500" 
+  },
+    {
+      "id": "tool-github",
+      "name": "GitHub",
+      "url": "https://github.com",
+      "icon": "fab fa-github",
+      "description": "全球最大的代码托管平台和开发者社区。",
+      "category": "development",
+      "accentColor": "text-gray-700"
+    }
+  ]
+}
