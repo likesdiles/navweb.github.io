@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const SSPAI_API_URL = 'https://listapi.vercel.app/sspai';
     const GITHUB_API_URL = 'https://listapi.vercel.app/hellogithub';
 
-    const TOOLS_API_URL = 'http://os.czcps.cn/nav/tool.json';
+    const TOOLS_API_URL = '/tool.json';
 
     async function fetchApiData(url, sourceName = "Data") {
         console.log(`Workspaceing ${sourceName} from: ${url}`);
